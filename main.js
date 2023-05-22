@@ -90,6 +90,9 @@ function cert(){
 function openCert1(){
     window.location.href = "joining_cert.pdf"
 }
+function openCert1(){
+    window.location.href = "course_cert.pdf"
+}
 
 function reportCard(){
     window.location = "report.html"
